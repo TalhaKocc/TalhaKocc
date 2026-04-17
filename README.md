@@ -70,11 +70,11 @@ Backend geliştirme konusunda tutkulu bir **Java Developer**'ım. Temiz kod yazm
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| 🏥 [Hospital Automation](https://github.com/TalhaKocc/Hospital_Automation) | Hastane yönetim sistemi; hasta, doktor ve randevu takibi | `Java` `OOP` |
-| 🚗 [Car Gallery Project](https://github.com/TalhaKocc/CarGallery_Project) | Araç listeleme ve yönetim uygulaması | `Java` `OOP` |
+| 🏥 [Hospital Automation](https://github.com/TalhaKocc/Hospital_Automation) | Hastane yönetim sistemi; hasta, doktor ve randevu takibi | `Java` `Spring Boot` `Spring Web MVC` |
+| 🚗 [Car Gallery Project](https://github.com/TalhaKocc/CarGallery_Project) | Araç listeleme ve yönetim uygulaması | `Java` `Rest` |
 | 📚 [Library Project](https://github.com/TalhaKocc/library_project) | Kütüphane otomasyon sistemi | `Java` `OOP` |
-| 🎓 [School Project](https://github.com/TalhaKocc/School_Project) | Okul yönetim ve öğrenci takip sistemi | `Java` `OOP` |
-| 🏥 [Hospital Project](https://github.com/TalhaKocc/Hospital_Project) | Hastane servis yönetimi | `Java` `OOP` |
+| 🎓 [School Project](https://github.com/TalhaKocc/School_Project) | Okul yönetim ve öğrenci takip sistemi | `Java`  `JSP` |
+| 🏥 [Hospital Project](https://github.com/TalhaKocc/Hospital_Project) | Hastane servis yönetimi | `Java`  `JSF`|
 | 📖 [Library API](https://github.com/TalhaKocc/Library_API) | RESTful kütüphane API servisi | `Java` `REST` |
 
 </div>
@@ -98,7 +98,6 @@ Backend geliştirme konusunda tutkulu bir **Java Developer**'ım. Temiz kod yazm
 Benimle iletişime geçmek ister misin?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn'de_Bul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-koç-a78186249)
-[![GitHub](https://img.shields.io/badge/GitHub'da_Takip_Et-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalhaKocc)
 
 </div>
 
